@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Pakhi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DCFB16ECAB0D4B63A1D1F7362519B4F8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF595D0108C34D8A99A40A46DC868B47 }}
           package: .
